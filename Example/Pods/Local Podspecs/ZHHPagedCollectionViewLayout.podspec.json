@@ -1,0 +1,22 @@
+{
+  "name": "ZHHPagedCollectionViewLayout",
+  "version": "0.1.0",
+  "summary": "A short description of ZHHPagedCollectionViewLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yue5yueliang/ZHHPagedCollectionViewLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yue5yueliang": "136769890@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yue5yueliang/ZHHPagedCollectionViewLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZHHPagedCollectionViewLayout/Classes/**/*"
+}

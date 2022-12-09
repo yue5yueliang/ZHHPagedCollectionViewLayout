@@ -1,0 +1,16 @@
+PODS:
+  - ZHHPagedCollectionViewLayout (0.1.0)
+
+DEPENDENCIES:
+  - ZHHPagedCollectionViewLayout (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHPagedCollectionViewLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHPagedCollectionViewLayout: d76e1439c92f6893b25feacc48f7ca71921c8865
+
+PODFILE CHECKSUM: 16718876fb24c94bdd404dfc5581e567d43923e6
+
+COCOAPODS: 1.11.3

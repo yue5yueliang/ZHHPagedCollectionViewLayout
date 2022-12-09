@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ZHHPagedCollectionViewLayout_Example' do
+  pod 'ZHHPagedCollectionViewLayout', :path => '../'
+
+  target 'ZHHPagedCollectionViewLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
