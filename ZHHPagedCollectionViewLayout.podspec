@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  分页集合视图，从左到右滚动.
+  collectionView分页集合视图，从左到右滚动.
                        DESC
 
   s.homepage         = 'https://github.com/yue5yueliang/ZHHPagedCollectionViewLayout'
